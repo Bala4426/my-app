@@ -1,0 +1,11 @@
+# build output
+*.exe
+_build/
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# saved login (created by the punch tools; never commit)
+config.json
